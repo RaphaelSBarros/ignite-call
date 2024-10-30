@@ -3,6 +3,7 @@ import Image from 'next/image'
 import { Container, Hero, Preview } from './styles'
 import previewImage from '../../assets/app_preview.png'
 import { ClaimUsernameForm } from './components/ClaimUsernameForm'
+
 export default function Home() {
   return (
     <Container>
